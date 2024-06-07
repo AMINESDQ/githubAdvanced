@@ -2,6 +2,9 @@ sadiq amine
 sadiq mohamed amine 
 sadiq lina  
 sadiq lina  
+<<<<<<< HEAD
 sadiq reda  
 sadiq lina1  
 sadiq lina2  
+=======
+>>>>>>> parent of 85fac29 (test reda)
